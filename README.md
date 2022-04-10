@@ -2,4 +2,4 @@
 
 Repo: https://github.com/GianniMejia/password-generator
 
-Deployed Site: 
+Deployed Site: https://giannimejia.github.io/password-generator/
